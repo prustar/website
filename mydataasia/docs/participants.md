@@ -14,6 +14,6 @@ The followings MyData Global members are the core participants. Please feel free
 | Eric Welton | - |
 | Jin Park | MyData Korea|
 | [Ploy Chanprasert](https://twitter.com/ploychanprasert) | - |
-| [Pyrou Chung](https://www.linkedin.com/in/pyrou-chung-4558b59b/) | Open Development Mekong |
+| [Pyrou Chung](https://www.linkedin.com/in/pyrou-chung-4558b59b/) | Open Development Initiative |
 | [Sherry Chung](https://twitter.com/SherryChung23) | MyData Taiwan |
 | [THY Try](https://twitter.com/try_thy) | Open Development Cambodia |
